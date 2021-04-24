@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Tim Pinoy. I am a pre-sales consultant for regulatory reporting and risk software. I enjoy all things related to data, technology, gaming, music and science-fiction.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+After spending several years in North America I once again live in Belgium where I mainly work from home.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This blog will mainly consist of my own thoughts and scribbles.
 
+# About this site
 
-[jekyll-organization]: https://github.com/jekyll
+I decided to set up a blog after watching [Get Involved!](https://getinvolved.hanselman.com/) by [Scott Hanselman](https://www.hanselman.com/) & [Rob Conery](https://rob.conery.io/)
