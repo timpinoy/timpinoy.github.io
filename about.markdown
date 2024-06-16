@@ -4,11 +4,15 @@ title: About
 permalink: /about/
 ---
 
-My name is Tim Pinoy. I am a pre-sales consultant for regulatory reporting and risk software. I enjoy all things related to data, technology, gaming, music and science-fiction.
+Hi,
 
-After spending several years in North America I once again live in Belgium where I mainly work from home.
+I'm Tim Pinoy. I'm passionate about data, technology, gaming, metal music, anime/manga, and science fiction.
 
-This blog will mainly consist of my own thoughts and scribbles.
+After nearly a decade in North America, I returned to Belgium in 2019, bringing with me a wealth of diverse experiences. Professionally, I am a pre-sales consultant specializing in regulatory reporting and risk software. My background includes several years as a consultant setting up and integrating financial software.
+
+This blog is a space for me to share my random thoughts and insights. Expect the content will be extremely sporadic.
+
+Thank you for visiting!
 
 # About this site
 
