@@ -32,9 +32,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-minima:
-  skin: solarized
-
 show_excerpts: true
 
 # Exclude from processing.
