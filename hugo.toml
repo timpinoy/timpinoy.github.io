@@ -133,3 +133,7 @@ url = "/index.xml"
     disable = true
   [privacy.youtube]
     disable = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
