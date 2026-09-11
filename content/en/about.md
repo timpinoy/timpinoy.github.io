@@ -6,12 +6,13 @@ exclude_from_rss: true
 toc: false
 ---
 
-Hi, I'm Tim Pinoy, a technology professional with a background in regulatory reporting software. Implementation consultant turned presales.
-I have a tendency to go down rabbit holes trying to understand how things work. Lately that means spending time with Linux, containers, and infrastructure in general.
+Hi, I’m Tim Pinoy. I’m a technology professional with a background in regulatory reporting software, having moved from implementation consulting into presales.
 
-This site is my place to keep track of what I learn: technical notes, experiments, things that took longer to figure out than they probably should have, and occasional notes from books, podcasts, and whatever else catches my interest.
+I have a tendency to go down rabbit holes trying to understand how things work. Lately, that has meant spending a lot of time with Linux, containers, infrastructure, and the systems behind them.
 
-Outside of technology I enjoy reading science fiction, listening to (metal) music, and playing video games.
+This site is a place to keep track of what I learn: technical notes, experiments, things that took longer to figure out than they probably should have, and the occasional note from a book, podcast, or whatever else happens to catch my interest.
+
+Outside of technology, I enjoy reading science fiction, listening to metal, and playing video games.
 
 You can find me on:
 * [GitHub](https://github.com/timpinoy)
