@@ -1,6 +1,6 @@
 +++
 date = '2026-09-19T09:13:30+02:00'
-draft = true
+draft = false
 title = 'Cal Newport - How to learn any hard skill'
 toc = false
 +++
